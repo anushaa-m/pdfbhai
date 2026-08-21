@@ -1,0 +1,30 @@
+models/mcq-qwen-final/
+mcq-qwen-final.zip
+__pycache__/
+.pytest_cache/
+.env
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# ML models
+mcq-qwen-final/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Local files
+uploads/
+*.pdf
+
+# IDE
+.vscode/
+.idea/

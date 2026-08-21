@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+sentence-transformers
+faiss-cpu
+sqlalchemy
+pydantic
+requests
+python-dotenv
+torch
+transformers
+peft
+accelerate
+bitsandbytes
